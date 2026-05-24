@@ -1,0 +1,11 @@
+{
+  "name": "cryptic-queen-v1",
+  "version": "1.0.0",
+  "scripts": { "start": "node bot.js" },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "@whiskeysockets/baileys": "6.6.0",
+    "pino": "^8.15.0",
+    "dotenv": "^16.3.1"
+  }
+}
